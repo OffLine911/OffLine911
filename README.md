@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm OFF!
 
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&pause=1000&center=true&vCenter=true&width=500&lines=Yooo+my+boy;This+is+my+warhouse;you+will+see+a+lots+of+;Amazing+things+here+so+stay+around!)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&pause=1000&center=true&vCenter=true&width=500&lines=Yooo+my+boy;This+is+my+warhouse;you+will+see+a+lots+of+;Amazing+things+here+so+stay+around!" alt="Typing SVG" /></a>
 </div>
 
 ## 🚀 About Me
