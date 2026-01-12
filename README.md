@@ -57,16 +57,6 @@ I work heavily at the intersection of **Desktop × Web × AI**.
 ![API](https://img.shields.io/badge/API-005571?style=for-the-badge)
 ![CMS](https://img.shields.io/badge/CMS-444?style=for-the-badge)
 
-
-### AI & Automation
-
-* OpenAI-compatible APIs
-* OpenRouter
-* Groq
-* Custom AI backends
-* AI in **core systems**, not just plugins
-
-
 ### Tools & Platforms
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
